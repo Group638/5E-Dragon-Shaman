@@ -5,7 +5,7 @@
    "author": "Group 638",
    "version": "4.4.1",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"1.0.0",
+   "compatibleCoreVersion":"2.0.0",
    "packs": [
     {
       "name": "Class",
